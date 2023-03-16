@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AAKboss
-- 👀 I’m interested in Python, turtle, VB
-- 🌱 I’m currently learning Visual Basic
+- 👀 I’m interested Python, C++, C#
+- 📖 I have knowledge in Python, C++, VB(Visual Basic), turtle, Html, CSS, JS(JavaScript), PHP, 
+- 🌱 I’m currently learning PHP, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me azgarkhader@gmail.com
 
